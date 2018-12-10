@@ -1,0 +1,8 @@
+name: Django-Grader
+channels:
+  - conda-forge
+dependencies:
+- python=3.6
+- pip
+- pip:
+  - django
